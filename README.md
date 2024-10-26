@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @TarmacLn otherwise know as Tarmac or Ioanna Andrianou.
+ It might look like there are not many repositories, but in reality I'm just currently working on private ones.
+ More projects will be uploaded in the future!
 - 👀 I’m interested in Virtual Reality, AI and new technologies ,but I'm always down to learn something new!
 - 🌱 I’m currently learning about AI ,as well as working as a full-stack developer with React.js and SQL and being a co-founder at MyNavlo!🕊️
 - 💞️ I’m looking to collaborate on projects that concern either web development or Virtual Reality as a theme.
