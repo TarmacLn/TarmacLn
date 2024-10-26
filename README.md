@@ -8,6 +8,8 @@
 - 😄 Always down to meet new people and learn new things, don't be afraid to collaborate with me.
 - ⚡ Fun fact: I love bad jokes so don't be afraid to share yours with me!
 
+- Leetcode profile: Tarmac(TarmacLn) , (I'm still new so be nice)
+
 <!---
 TarmacLn/TarmacLn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
