@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @TarmacLn otherwise know as Tarmac or Ioanna Andrianou.
- It might look like there are not many repositories, but in reality I'm just currently working on private ones.
- More projects will be uploaded in the future!
-- 👀 I’m interested in Virtual Reality, AI and new technologies ,but I'm always down to learn something new!
-- 🌱 I’m currently learning about AI ,as well as working as a full-stack developer with React.js and SQL and being a co-founder at MyNavlo!🕊️
-- 💞️ I’m looking to collaborate on projects that concern either web development or Virtual Reality as a theme.
-- 📫 You can reach me from my LinkedIn account🌐, link in my bio.
-- 😄 Always down to meet new people and learn new things, don't be afraid to collaborate with me.
-- ⚡ Fun fact: I love bad jokes so don't be afraid to share yours with me!
+TarmacLn here AKA Tarmac or Ioanna Andrianou. 
+In a journey to learn everything that is interesting. Give me passion and I'll create wonders.
+Currently co-founder of MyNavlo, working with React.js and Node.js full-stack.
+Also intrigued with java and object oriented programming as well as CTF hacking competitions.
 
-- Leetcode profile: Tarmac(TarmacLn) , (I'm still new so be nice)
+Currently researching Virtual Reality and AI on the side.
+Don't be afraid to reach out.
+
+- Leetcode profile: Tarmac(TarmacLn) , (I'm still new, barely use it atm)
 
 <!---
 TarmacLn/TarmacLn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
