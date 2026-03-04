@@ -1,15 +1,28 @@
-- TarmacLn here AKA *Tarmac* or Ioanna Andrianou.
-- In a journey to learn everything that is interesting. Give me passion and I'll create wonders.
-- Currently co-founder of MyNavlo, working full-stack, mainly in typescript.
-- Also intrigued with java and object oriented programming as well as CTF hacking competitions.
-- We love React.js
+<div align="center">
 
-- Currently researching Virtual Reality and AI on the side.
-- Don't be afraid to reach out.
+# Hi, I'm TarmacLn ^o^
 
-- Leetcode profile: Tarmac(TarmacLn) , (I'm still new, barely use it atm)
+Also known as **Tarmac** or **Ioanna Andrianou**.
 
-<!---
-TarmacLn/TarmacLn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm on a journey to learn everything interesting. Give me passion, and I'll create wonders!
+
+</div>
+
+### Experience & Interests
+
+- Passionate about start-ups and new technologies
+- Security enthusiast and CTF competitor
+- Experienced in full-stack web development(TypeScript, Java, Ruby)
+
+- When not programming either sleeping, listening to music or playing taiko ~
+
+### Current Focus
+
+- Pursuing university studies
+- Creating new projects and cleaning up old ones.
+
+### Get in Touch
+
+- Don't hesitate to reach out! (0.0)/
+
+![Tarmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarmacLn&show_icons=true&theme=tokyonight)
