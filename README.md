@@ -25,4 +25,3 @@ I'm on a journey to learn everything interesting. Give me passion, and I'll crea
 
 - Don't hesitate to reach out! (0.0)/
 
-![Tarmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarmacln&show_icons=true&theme=tokyonight)
